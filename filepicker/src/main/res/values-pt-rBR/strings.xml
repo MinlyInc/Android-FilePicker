@@ -25,5 +25,8 @@
     <string name="all_photos">Todas as fotos</string>
     <string name="all_videos">Todos os vídeos</string>
     <string name="all_files">Todos os arquivos</string>
-
+    <string name="file_picker_videos">Videos</string>
+    <string name="file_picker_images">Images</string>
+    <string name="file_picker_videos">Videos</string>
+    <string name="file_picker_images">Images</string>
 </resources>

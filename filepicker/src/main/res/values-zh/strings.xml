@@ -19,4 +19,6 @@
     <string name="word_title">DOC</string>
     <string name="excel_title">XLS</string>
     <string name="txt_title">TXT</string>
+    <string name="file_picker_videos">Videos</string>
+    <string name="file_picker_images">Images</string>
 </resources>

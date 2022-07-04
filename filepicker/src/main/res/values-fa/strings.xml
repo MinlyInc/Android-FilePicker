@@ -20,5 +20,6 @@
     <string name="all_photos">همه تصویرها</string>
     <string name="all_videos">همه فیلم ها</string>
     <string name="all_files">همه فایل ها</string>
-
+    <string name="file_picker_videos">Videos</string>
+    <string name="file_picker_images">Images</string>
 </resources>

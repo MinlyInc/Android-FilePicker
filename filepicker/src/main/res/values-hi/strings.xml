@@ -25,5 +25,6 @@
     <string name="all_photos">सभी तस्वीरें</string>
     <string name="all_videos">सभी वीडियो</string>
     <string name="all_files">सभी फाइलें</string>
-
+    <string name="file_picker_videos">Videos</string>
+    <string name="file_picker_images">Images</string>
 </resources>
